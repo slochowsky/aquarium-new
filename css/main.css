@@ -1,0 +1,22 @@
+@import 'nav.css';
+@import 'fish.css';
+
+body {
+  background-color: goldenrod;
+  box-sizing: border-box;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+img {
+  max-width: 100%;
+}
+
+aside{
+  flex-basis: 30%;
+  border: 1px solid red;
+  padding: 0 5px;
+}
