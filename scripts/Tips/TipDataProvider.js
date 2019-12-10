@@ -21,7 +21,6 @@ const tipCollection = [
     },
 ]
 
-// This is new code. Add this.
 export const useTip = () => {
     return tipCollection
 }
