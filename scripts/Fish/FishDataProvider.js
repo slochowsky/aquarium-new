@@ -4,28 +4,40 @@ const fishCollection = [
         Species: "Piranha",
         Location: "Brazil",
         Length: 4,
-        Food: "Humans"
+        Food: "Humans",
+        image: "goldie-fish.jpg"
+    },
+    {
+        name: "Bitey",
+        Species: "Piranha",
+        Location: "Brazil",
+        Length: 4,
+        Food: "Humans",
+        image: "goldie-fish.jpg"
     },
     {
         name: "Jawsie",
         Species: "Shark",
         Location: "South Africa",
         Length: 264,
-        Food: "Seals"
+        Food: "Seals",
+        image: "goldie-fish.jpg"
     },
     {
         name: "Sam",
         Species: "Salmon",
         Location: "Alaska",
         Length: 26,
-        Food: "Anchovies"
+        Food: "Anchovies",
+        image: "goldie-fish.jpg"
     },
     {
-        name: "Mr. Dangles",
+        name: "Dangles",
         Species: "Angler Fish",
         Location: "Mariana Trench",
         Length: 12,
-        Food: "Minnows"
+        Food: "Minnows",
+        image: "goldie-fish.jpg"
 
     },
     {
@@ -33,7 +45,17 @@ const fishCollection = [
         Species: "Red Snapper",
         Location: "Gulf of Mexico",
         Length: 30,
-        Food: "Eels"
+        Food: "Eels",
+        image: "goldie-fish.jpg"
+
+    },
+    {
+        name: "Snappy",
+        Species: "Red Snapper",
+        Location: "Gulf of Mexico",
+        Length: 30,
+        Food: "Eels",
+        image: "goldie-fish.jpg"
 
     },
     {
@@ -41,7 +63,8 @@ const fishCollection = [
         Species: "Barracuda",
         Location: "Coral Reefs",
         Length: 70,
-        Food: "Salmon"
+        Food: "Salmon",
+        image: "goldie-fish.jpg"
 
     }
 ]
