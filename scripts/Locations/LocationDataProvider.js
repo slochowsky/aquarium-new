@@ -10,6 +10,16 @@ const locationCollection = [
         tempature: "Rainy"
     },
     {
+        place: "Tenneesse",
+        lat_long: "21 , 72",
+        tempature: "Rainy"
+    },
+    {
+        place: "Tenneesse",
+        lat_long: "21 , 72",
+        tempature: "Rainy"
+    },
+    {
         place: "Maine",
         lat_long: "98 , 3",
         tempature: "Snowing"
